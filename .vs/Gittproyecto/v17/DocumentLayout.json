@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|c:\\users\\lucy\\source\\repos\\gittproyecto\\gittproyecto\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|solutionrelative:gittproyecto\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|c:\\users\\lucy\\source\\repos\\gittproyecto\\gittproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|solutionrelative:gittproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|c:\\users\\lucy\\source\\repos\\gittproyecto\\gittproyecto\\estudianteextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90540EFB-BEBC-4F77-BB92-FF3FC2181970}|Gittproyecto\\Gittproyecto.csproj|solutionrelative:gittproyecto\\estudianteextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\EstudianteExtension.cs",
+              "RelativeDocumentMoniker": "Gittproyecto\\EstudianteExtension.cs",
+              "ToolTip": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\EstudianteExtension.cs",
+              "RelativeToolTip": "Gittproyecto\\EstudianteExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:36:03.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\Universidad.cs",
+              "RelativeDocumentMoniker": "Gittproyecto\\Universidad.cs",
+              "ToolTip": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\Universidad.cs",
+              "RelativeToolTip": "Gittproyecto\\Universidad.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:23:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Gittproyecto\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucy\\source\\repos\\Gittproyecto\\Gittproyecto\\Program.cs",
+              "RelativeToolTip": "Gittproyecto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:18:12.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
